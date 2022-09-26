@@ -1,8 +1,7 @@
 - 👋 Hi, I’m sagar dodamani 
-- 👀 I’m interested java full stack developer 
-- 🌱 I’m currently learning java full stack 
-- 💞️ I’m looking to collaborate on java developer 
-- 📫 How to reach me 8088272481
+- 👀 I’m interested in java full stack developer 
+- 🌱 I’m currently working in Enverus India Private Limited Company as a Associate Software Engineer(Development team) 
+- 📫 How to reach me sagardodamani235@gmail.com
 
 <!---
 Dodamanisagar/Dodamanisagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
