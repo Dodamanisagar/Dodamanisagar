@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sagar dodamani 
-- 🌱 I’m currently working as a Associate Software Engineer at Enverus India Private Limited Company
+- 🌱 I’m currently looking forward for Data analyst/SQL developer roles.
 - 📫 How to reach me-'linkedin.com/in/sagar-dodamani-233912180' or sagardodamani235@gmail.com
 
 <!---
