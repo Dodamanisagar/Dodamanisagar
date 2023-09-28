@@ -7,9 +7,6 @@ Dodamanisagar/Dodamanisagar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # My Top Skills in SQL
-
-In this repository, I'm showcasing my proficiency in SQL, particularly in the following areas:
-
 ## Data Definition Language (DDL)
 
 - Creating and altering database objects like tables.
